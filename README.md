@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding and programming.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me - just don't try to reach me. I don't usually talk to people that much.
 
 <!---
 xitcode100/xitcode100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
