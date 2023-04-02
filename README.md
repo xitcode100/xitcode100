@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xitcode100 
 - 👀 I’m interested in coding and programming.
-- 🌱 I’m currently learning python
+- 🌱 I’m a Python Developer
 - 💞️ I’m looking to collaborate on github
 
 <!---
